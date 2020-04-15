@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Uçuş Kayıt Defteri", "Uçuş Kayıt Defteri\Uçuş Kayıt Defteri.vdproj", "{6DCA70F7-0AB7-4615-84CF-03E64888D64F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DCA70F7-0AB7-4615-84CF-03E64888D64F}.Debug|Default.ActiveCfg = Debug
+		{6DCA70F7-0AB7-4615-84CF-03E64888D64F}.Debug|Default.Build.0 = Debug
+		{6DCA70F7-0AB7-4615-84CF-03E64888D64F}.Release|Default.ActiveCfg = Release
+		{6DCA70F7-0AB7-4615-84CF-03E64888D64F}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

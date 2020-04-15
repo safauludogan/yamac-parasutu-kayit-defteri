@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Uçuş Kayıt">
+</Property><Property Name="Solution File" Value="C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Uçuş Kayıt.sln">
+</Property><Property Name="User Options File" Value="C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Uçuş Kayıt.suo">
+</Property><Property Name="Date" Value="15 Mart 2016 Salı">
+</Property><Property Name="Time" Value="00:40">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Uçuş Kayıt.sln" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Uçuş Kayıt.suo" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt.suo">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Uçuş Kayıt.csproj" Description="Project file successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Uçuş Kayıt.csproj">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Uçuş Kayıt.csproj.user" Description="Project user file successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Uçuş Kayıt.csproj.user">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\giris.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\giris.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\giris.Designer.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\giris.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\kayitEkle.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\kayitEkle.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\kayitEkle.Designer.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\kayitEkle.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Program.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Program.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\classlar.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\classlar.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\ucus_kayit.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\ucus_kayit.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\ucus_kayit.Designer.cs" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\ucus_kayit.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Properties\Settings.settings" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Resources\_DSC0072.JPG" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Resources\_DSC0072.JPG">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\giris.resx" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\giris.resx">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\kayitEkle.resx" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\kayitEkle.resx">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Properties\Resources.resx" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\ucus_kayit.resx" Description="File successfully backed up as C:\Users\tos\Desktop\Projelerim\Uçuş Kayıt\Backup\Uçuş Kayıt\ucus_kayit.resx">
+</Event><Event ErrorLevel="0" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Uçuş Kayıt.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="Uçuş Kayıt" Source="Uçuş Kayıt\Uçuş Kayıt.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="Uçuş Kayıt.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Uçuş Kayıt.sln" Description="Converted">
+</Event></UpgradeLog>
